@@ -10,4 +10,4 @@
 
 /* __________________ Answer __________________ */
 
-type MyAwaited<T> = T extends PromiseLike<infer U> ? MyAwaited<U> : T;
+type MyAwaited<T extends Promise<any>> = T extends Promise<infer U> ? (U extends Promise<any> ? MyAwaited<U> : U) : T;

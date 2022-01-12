@@ -11,4 +11,4 @@
 
 /* __________________ Answer __________________ */
 
-type Length<T extends readonly any[]> = T[keyof { length: number }]
+type Length<T extends readonly any[]> = T['length'];

@@ -12,12 +12,4 @@
 
 /* __________________ Answer __________________ */
 
-type MyReadonly2<T, K = undefined> = [K] extends [undefined] ?
-    {
-        readonly [Prop in keyof T]: T[Prop]
-    } :
-    {
-        readonly [Prop in keyof T as Prop extends K ? Prop : never]: T[Prop]
-    } & {
-        -readonly [Prop in keyof T as Prop extends K ? never : Prop]: T[Prop]
-    }
+type MyReadonly2<T, K extends keyof T = keyof T> = T & { readonly [Prop in K]: T[Prop] } 

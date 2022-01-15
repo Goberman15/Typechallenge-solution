@@ -1,7 +1,10 @@
 /*
   3312 - Parameters
   -------
-  by midorizemi (@midorizemi) #easy #infer #tuple #built-in
+  
+  ### Question
+  
+  Implement the built-in `ReturnType<T>` generic without using it.
 */
 
 /* __________________ Answer __________________ */

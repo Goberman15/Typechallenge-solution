@@ -14,5 +14,5 @@
 /* _____________ Your Code Here _____________ */
 
 type DeepReadonly<T> = {
-    readonly [K in keyof T]: T[K] extends Function ? T[K] : DeepReadonly<T[K]>
+    readonly [K in keyof T]: T[K] extends { [key: string]: unknown } ? DeepReadonly<T[K]> : T[K]
 }

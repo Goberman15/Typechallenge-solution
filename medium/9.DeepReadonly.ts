@@ -11,8 +11,8 @@
 */
 
 
-/* _____________ Your Code Here _____________ */
+/* __________________ Answer __________________ */
 
 type DeepReadonly<T> = {
-    readonly [K in keyof T]: T[K] extends { [key: string]: unknown } ? DeepReadonly<T[K]> : T[K]
+  readonly [K in keyof T]: T[K] extends { [key: string]: unknown } ? DeepReadonly<T[K]> : T[K]
 }

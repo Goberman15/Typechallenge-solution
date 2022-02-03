@@ -51,7 +51,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [x] 527.Append to Object
 - [ ] 529.Absolute
 - [x] 531.String to Union
-- [ ] 599.Merge
+- [x] 599.Merge
 - [ ] 610.CamelCase
 - [ ] 612.KebabCase
 - [ ] 645.Diff

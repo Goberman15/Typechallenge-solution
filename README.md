@@ -43,7 +43,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [x] 108.Trim
 - [x] 110.Capitalize
 - [x] 116.Replace
-- [ ] 119.ReplaceAll
+- [x] 119.ReplaceAll
 - [ ] 191.AppendArgument
 - [ ] 296.Permutation
 - [x] 298.LengthOfString
@@ -114,7 +114,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [ ] 399.Tuple Filter
 - [ ] 472.Tuple to Enum Object
 - [ ] 545.printf
-- [ ] 553.Deep Object 
+- [ ] 553.Deep Object
 - [ ] 651.Length to String 2
 - [ ] 730.Union to Tuple
 - [ ] 847.String Join

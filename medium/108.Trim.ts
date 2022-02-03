@@ -11,11 +11,11 @@
 
 /* __________________ Answer __________________ */
 
-type Whitespace = ' ' | '\n' | '\t';
+type Whitespace1 = ' ' | '\n' | '\t';
 
 type Trim<S extends string> =
-    S extends `${Whitespace}${infer Rest}`
+    S extends `${Whitespace1}${infer Rest}`
     ? Trim<Rest>
-    : S extends `${infer Rest}${Whitespace}`
+    : S extends `${infer Rest}${Whitespace1}`
     ? Trim<Rest>
     : S;

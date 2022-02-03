@@ -49,7 +49,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [x] 298.LengthOfString
 - [ ] 459.Flatten
 - [x] 527.Append to Object
-- [ ] 529.Absolute
+- [x] 529.Absolute
 - [x] 531.String to Union
 - [x] 599.Merge
 - [ ] 610.CamelCase

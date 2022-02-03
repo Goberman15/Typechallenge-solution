@@ -48,7 +48,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [ ] 296.Permutation
 - [x] 298.LengthOfString
 - [ ] 459.Flatten
-- [ ] 527.Append to Object
+- [x] 527.Append to Object
 - [ ] 529.Absolute
 - [x] 531.String to Union
 - [ ] 599.Merge

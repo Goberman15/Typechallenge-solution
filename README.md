@@ -54,7 +54,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [x] 599.Merge
 - [ ] 610.CamelCase
 - [ ] 612.KebabCase
-- [ ] 645.Diff
+- [x] 645.Diff
 - [ ] 949.AnyOf
 - [ ] 1042.IsNever
 - [ ] 1097.IsUnion

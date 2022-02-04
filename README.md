@@ -64,7 +64,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [ ] 2070.Drop Char
 - [ ] 2257.MinusOne
 - [ ] 2595.PickByType
-- [ ] 2688.StartsWith
+- [x] 2688.StartsWith
 - [ ] 2693.EndsWith
 - [ ] 2757.PartialByKeys
 - [ ] 2759.RequiredByKeys

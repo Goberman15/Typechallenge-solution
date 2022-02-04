@@ -44,7 +44,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [x] 110.Capitalize
 - [x] 116.Replace
 - [x] 119.ReplaceAll
-- [ ] 191.AppendArgument
+- [x] 191.AppendArgument
 - [ ] 296.Permutation
 - [x] 298.LengthOfString
 - [x] 459.Flatten

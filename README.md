@@ -71,7 +71,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [ ] 2793.Mutable
 - [ ] 2852.OmitByType
 - [ ] 2946.ObjectEntries
-- [ ] 3062.Shift
+- [x] 3062.Shift
 - [ ] 3188.Tuple to Nested Object
 - [ ] 3192.Reverse
 - [ ] 3196.Flip Arguments

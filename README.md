@@ -78,7 +78,7 @@ I'm Currently learning [Typescript](typescriptlang.org/), and will use this chal
 - [ ] 3243.FlattenDepth
 - [ ] 3326.BEM Style String
 - [ ] 3376.InorderTraversal
-- [ ] 4179.Flip
+- [x] 4179.Flip
 - [ ] 4182.Fibonacci Sequence
 - [ ] 4260.AllCombinations
 - [ ] 4425.Greater Than
